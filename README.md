@@ -1,1 +1,1 @@
-# A map that shows all the volcanoes in the U.S. 
+# This python app generates a map that shows all the volcanoes in the U.S. 
